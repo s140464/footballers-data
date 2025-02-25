@@ -79,7 +79,7 @@
     "active": true,
     "position": "Defender",
     "birthdate": "1991-07-08",
-    "image": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/virgil_van_dijk.jpg",
+    "image": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/virgil_vandijk.jpg",
     "maritalStatus": "married",
     "hobbies": ["football", "reading", "family time"],
     "team": {
@@ -115,7 +115,7 @@
     "active": true,
     "position": "Midfielder",
     "birthdate": "1991-06-28",
-    "image": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/kevin_de_bruyne.jpg",
+    "image": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/kevin_debruyne.jpg",
     "maritalStatus": "married",
     "hobbies": ["football", "watching sports", "spending time with family"],
     "team": {

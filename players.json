@@ -12,8 +12,8 @@
     "hobbies": ["football", "poker", "traveling"],
     "team": {
       "id": 101,
-      "name": "Paris Saint-Germain",
-      "league": "Ligue 1",
+      "name": "Inter Miami CF",
+      "league": "Major League Soccer",
       "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/psg_logo.jpg"
     }
   },
@@ -66,8 +66,8 @@
     "hobbies": ["football", "dancing", "watching movies"],
     "team": {
       "id": 104,
-      "name": "Al Hilal",
-      "league": "Saudi Pro League",
+      "name": "Santos FC",
+      "league": "Campeonato Brasileiro Série A",
       "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/al_hilal_logo.jpg"
     }
   },
@@ -79,7 +79,7 @@
     "active": true,
     "position": "Defender",
     "birthdate": "1991-07-08",
-    "image": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/virgil_vandijk.jpg",
+    "image": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/virgil_van_dijk.jpg",
     "maritalStatus": "married",
     "hobbies": ["football", "reading", "family time"],
     "team": {
@@ -115,7 +115,7 @@
     "active": true,
     "position": "Midfielder",
     "birthdate": "1991-06-28",
-    "image": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/kevin_debruyne.jpg",
+    "image": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/kevin_de_bruyne.jpg",
     "maritalStatus": "married",
     "hobbies": ["football", "watching sports", "spending time with family"],
     "team": {
@@ -138,8 +138,8 @@
     "hobbies": ["football", "fitness", "fashion"],
     "team": {
       "id": 108,
-      "name": "Al Hilal",
-      "league": "Saudi Pro League",
+      "name": "Sevilla FC",
+      "league": "La Liga",
       "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/al_hilal_logo.jpg"
     }
   },

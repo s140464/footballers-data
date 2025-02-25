@@ -1,1 +1,51 @@
-...
+[
+    {
+        "id": 101,
+        "name": "Inter Miami CF",
+        "league": "Major League Soccer",
+        "logo": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/inter_miami_cf.jpg"
+    },
+    {
+      "id": 102,
+      "name": "Al Nassr",
+      "league": "Pro League",
+      "logo": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/al_nassr.jpg"
+    },
+    {
+      "id": 103,
+      "name": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "logo": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/paris_saint-germain_fc.jpg"
+    },
+    {
+        "id": 104,
+        "name": "Santos FC",
+        "league": "Campeonato Brasileiro Série A",
+        "logo": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/santos_logo.jpg"
+    },
+    {
+      "id": 105,
+      "name": "Liverpool FC",
+      "league": "Premier League",
+      "logo": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/liverpool_fc.jpg"
+    },
+    {
+        "id": 106,
+        "name": "Manchester City",
+        "league": "Premier League",
+        "logo": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/manchester_city_fc.jpg"
+    },
+    {
+        "id": 107,
+        "name": "Sevilla FC",
+        "league": "La Liga",
+        "logo": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/sevilla_fc.jpg"
+    },
+    {
+        "id": 108,
+        "name": "Real Madrid",
+        "league": "La Liga",
+        "logo": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/real_madrid_cf.jpg"
+    }
+  ]
+  

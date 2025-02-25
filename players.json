@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Lionel Messi",
+    "description": "Argentinian forward, widely considered one of the greatest footballers of all time.",
+    "age": 37,
+    "active": true,
+    "position": "Forward",
+    "birthdate": "1987-06-24",
+    "image": "https://raw.githubusercontent.com/username/repository-name/main/images/lionel_messi.jpg",
+    "maritalStatus": "married",
+    "hobbies": ["football", "poker", "traveling"],
+    "team": {
+      "id": 101,
+      "name": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/psg_logo.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Cristiano Ronaldo",
+    "description": "Portuguese forward known for his incredible goal-scoring record and athleticism.",
+    "age": 39,
+    "active": true,
+    "position": "Forward",
+    "birthdate": "1985-02-05",
+    "image": "https://raw.githubusercontent.com/username/repository-name/main/images/cristiano_ronaldo.jpg",
+    "maritalStatus": "Not married",
+    "hobbies": ["football", "gym", "fashion"],
+    "team": {
+      "id": 102,
+      "name": "Al Nassr",
+      "league": "Pro League",
+      "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/al_nassr_logo.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Kylian Mbappé",
+    "description": "French forward known for his lightning pace and exceptional dribbling skills.",
+    "age": 25,
+    "active": true,
+    "position": "Forward",
+    "birthdate": "1998-12-20",
+    "image": "https://raw.githubusercontent.com/username/repository-name/main/images/kylian_mbappe.jpg",
+    "maritalStatus": "Not married",
+    "hobbies": ["football", "video games", "traveling"],
+    "team": {
+      "id": 103,
+      "name": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/psg_logo.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Neymar Jr.",
+    "description": "Brazilian forward known for his flair, dribbling, and creativity on the ball.",
+    "age": 31,
+    "active": true,
+    "position": "Forward",
+    "birthdate": "1992-02-05",
+    "image": "https://raw.githubusercontent.com/username/repository-name/main/images/neymar_jr.jpg",
+    "maritalStatus": "Not married",
+    "hobbies": ["football", "dancing", "watching movies"],
+    "team": {
+      "id": 104,
+      "name": "Al Hilal",
+      "league": "Saudi Pro League",
+      "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/al_hilal_logo.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Virgil van Dijk",
+    "description": "Dutch central defender, known for his leadership, strength, and aerial ability.",
+    "age": 32,
+    "active": true,
+    "position": "Defender",
+    "birthdate": "1991-07-08",
+    "image": "https://raw.githubusercontent.com/username/repository-name/main/images/virgil_van_dijk.jpg",
+    "maritalStatus": "married",
+    "hobbies": ["football", "reading", "family time"],
+    "team": {
+      "id": 105,
+      "name": "Liverpool FC",
+      "league": "Premier League",
+      "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/liverpool_logo.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Mohamed Salah",
+    "description": "Egyptian winger known for his speed, technical ability, and goal-scoring prowess.",
+    "age": 31,
+    "active": true,
+    "position": "Winger",
+    "birthdate": "1992-06-15",
+    "image": "https://raw.githubusercontent.com/username/repository-name/main/images/mohamed_salah.jpg",
+    "maritalStatus": "married",
+    "hobbies": ["football", "charity work", "swimming"],
+    "team": {
+      "id": 106,
+      "name": "Liverpool FC",
+      "league": "Premier League",
+      "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/liverpool_logo.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Kevin De Bruyne",
+    "description": "Belgian midfielder, regarded as one of the best passers and playmakers in football.",
+    "age": 32,
+    "active": true,
+    "position": "Midfielder",
+    "birthdate": "1991-06-28",
+    "image": "https://raw.githubusercontent.com/username/repository-name/main/images/kevin_de_bruyne.jpg",
+    "maritalStatus": "married",
+    "hobbies": ["football", "watching sports", "spending time with family"],
+    "team": {
+      "id": 107,
+      "name": "Manchester City",
+      "league": "Premier League",
+      "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/man_city_logo.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Sergio Ramos",
+    "description": "Spanish central defender, known for his aggressive style of play and leadership on the field.",
+    "age": 37,
+    "active": true,
+    "position": "Defender",
+    "birthdate": "1986-03-30",
+    "image": "https://raw.githubusercontent.com/username/repository-name/main/images/sergio_ramos.jpg",
+    "maritalStatus": "married",
+    "hobbies": ["football", "fitness", "fashion"],
+    "team": {
+      "id": 108,
+      "name": "Al Hilal",
+      "league": "Saudi Pro League",
+      "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/al_hilal_logo.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Luka Modrić",
+    "description": "Croatian midfielder known for his vision, passing ability, and technical skills.",
+    "age": 38,
+    "active": true,
+    "position": "Midfielder",
+    "birthdate": "1985-09-09",
+    "image": "https://raw.githubusercontent.com/username/repository-name/main/images/luka_modric.jpg",
+    "maritalStatus": "married",
+    "hobbies": ["football", "music", "travelling"],
+    "team": {
+      "id": 109,
+      "name": "Real Madrid",
+      "league": "La Liga",
+      "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/real_madrid_logo.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Erling Haaland",
+    "description": "Norwegian striker known for his incredible goal-scoring ability and physical attributes.",
+    "age": 23,
+    "active": true,
+    "position": "Striker",
+    "birthdate": "2000-07-21",
+    "image": "https://raw.githubusercontent.com/username/repository-name/main/images/erling_haaland.jpg",
+    "maritalStatus": "Not married",
+    "hobbies": ["football", "video games", "playing golf"],
+    "team": {
+      "id": 110,
+      "name": "Manchester City",
+      "league": "Premier League",
+      "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/man_city_logo.jpg"
+    }
+  }
+]

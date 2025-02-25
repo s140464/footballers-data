@@ -7,7 +7,7 @@
     "active": true,
     "position": "Forward",
     "birthdate": "1987-06-24",
-    "image": "https://raw.githubusercontent.com/username/repository-name/main/images/lionel_messi.jpg",
+    "image": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/lionel_messi.jpg",
     "maritalStatus": "married",
     "hobbies": ["football", "poker", "traveling"],
     "team": {
@@ -25,7 +25,7 @@
     "active": true,
     "position": "Forward",
     "birthdate": "1985-02-05",
-    "image": "https://raw.githubusercontent.com/username/repository-name/main/images/cristiano_ronaldo.jpg",
+    "image": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/cristiano_ronaldo.jpg",
     "maritalStatus": "Not married",
     "hobbies": ["football", "gym", "fashion"],
     "team": {
@@ -43,7 +43,7 @@
     "active": true,
     "position": "Forward",
     "birthdate": "1998-12-20",
-    "image": "https://raw.githubusercontent.com/username/repository-name/main/images/kylian_mbappe.jpg",
+    "image": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/kylian_mbappe.jpg",
     "maritalStatus": "Not married",
     "hobbies": ["football", "video games", "traveling"],
     "team": {
@@ -61,7 +61,7 @@
     "active": true,
     "position": "Forward",
     "birthdate": "1992-02-05",
-    "image": "https://raw.githubusercontent.com/username/repository-name/main/images/neymar_jr.jpg",
+    "image": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/neymar_jr.jpg",
     "maritalStatus": "Not married",
     "hobbies": ["football", "dancing", "watching movies"],
     "team": {
@@ -79,7 +79,7 @@
     "active": true,
     "position": "Defender",
     "birthdate": "1991-07-08",
-    "image": "https://raw.githubusercontent.com/username/repository-name/main/images/virgil_van_dijk.jpg",
+    "image": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/virgil_vandijk.jpg",
     "maritalStatus": "married",
     "hobbies": ["football", "reading", "family time"],
     "team": {
@@ -97,7 +97,7 @@
     "active": true,
     "position": "Winger",
     "birthdate": "1992-06-15",
-    "image": "https://raw.githubusercontent.com/username/repository-name/main/images/mohamed_salah.jpg",
+    "image": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/mohamed_salah.jpg",
     "maritalStatus": "married",
     "hobbies": ["football", "charity work", "swimming"],
     "team": {
@@ -115,7 +115,7 @@
     "active": true,
     "position": "Midfielder",
     "birthdate": "1991-06-28",
-    "image": "https://raw.githubusercontent.com/username/repository-name/main/images/kevin_de_bruyne.jpg",
+    "image": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/kevin_debruyne.jpg",
     "maritalStatus": "married",
     "hobbies": ["football", "watching sports", "spending time with family"],
     "team": {
@@ -133,7 +133,7 @@
     "active": true,
     "position": "Defender",
     "birthdate": "1986-03-30",
-    "image": "https://raw.githubusercontent.com/username/repository-name/main/images/sergio_ramos.jpg",
+    "image": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/sergio_ramos.jpg",
     "maritalStatus": "married",
     "hobbies": ["football", "fitness", "fashion"],
     "team": {
@@ -151,7 +151,7 @@
     "active": true,
     "position": "Midfielder",
     "birthdate": "1985-09-09",
-    "image": "https://raw.githubusercontent.com/username/repository-name/main/images/luka_modric.jpg",
+    "image": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/luka_modric.jpg",
     "maritalStatus": "married",
     "hobbies": ["football", "music", "travelling"],
     "team": {
@@ -169,7 +169,7 @@
     "active": true,
     "position": "Striker",
     "birthdate": "2000-07-21",
-    "image": "https://raw.githubusercontent.com/username/repository-name/main/images/erling_haaland.jpg",
+    "image": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/erling_haaland.jpg",
     "maritalStatus": "Not married",
     "hobbies": ["football", "video games", "playing golf"],
     "team": {

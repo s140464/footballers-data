@@ -14,7 +14,7 @@
       "id": 101,
       "name": "Inter Miami CF",
       "league": "Major League Soccer",
-      "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/psg_logo.jpg"
+      "logo": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/inter_miami_cf.jpg"
     }
   },
   {
@@ -32,7 +32,7 @@
       "id": 102,
       "name": "Al Nassr",
       "league": "Pro League",
-      "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/al_nassr_logo.jpg"
+      "logo": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/al_nassr.jpg"
     }
   },
   {
@@ -50,7 +50,7 @@
       "id": 103,
       "name": "Paris Saint-Germain",
       "league": "Ligue 1",
-      "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/psg_logo.jpg"
+      "logo": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/paris_saint-germain_fc.jpg"
     }
   },
   {
@@ -68,7 +68,7 @@
       "id": 104,
       "name": "Santos FC",
       "league": "Campeonato Brasileiro Série A",
-      "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/al_hilal_logo.jpg"
+      "logo": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/santos_logo.jpg"
     }
   },
   {
@@ -79,14 +79,14 @@
     "active": true,
     "position": "Defender",
     "birthdate": "1991-07-08",
-    "image": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/virgil_vandijk.jpg",
+    "image": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/virgil_van_dijk.jpg",
     "maritalStatus": "married",
     "hobbies": ["football", "reading", "family time"],
     "team": {
       "id": 105,
       "name": "Liverpool FC",
       "league": "Premier League",
-      "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/liverpool_logo.jpg"
+      "logo": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/liverpool_fc.jpg"
     }
   },
   {
@@ -101,10 +101,10 @@
     "maritalStatus": "married",
     "hobbies": ["football", "charity work", "swimming"],
     "team": {
-      "id": 106,
+      "id": 105,
       "name": "Liverpool FC",
       "league": "Premier League",
-      "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/liverpool_logo.jpg"
+      "logo": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/liverpool_fc.jpg"
     }
   },
   {
@@ -115,14 +115,14 @@
     "active": true,
     "position": "Midfielder",
     "birthdate": "1991-06-28",
-    "image": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/kevin_debruyne.jpg",
+    "image": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/kevin_de_bruyne.jpg",
     "maritalStatus": "married",
     "hobbies": ["football", "watching sports", "spending time with family"],
     "team": {
-      "id": 107,
+      "id": 106,
       "name": "Manchester City",
       "league": "Premier League",
-      "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/man_city_logo.jpg"
+      "logo": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/manchester_city_fc.jpg"
     }
   },
   {
@@ -137,10 +137,10 @@
     "maritalStatus": "married",
     "hobbies": ["football", "fitness", "fashion"],
     "team": {
-      "id": 108,
+      "id": 107,
       "name": "Sevilla FC",
       "league": "La Liga",
-      "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/al_hilal_logo.jpg"
+      "logo": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/sevilla_fc.jpg"
     }
   },
   {
@@ -155,10 +155,10 @@
     "maritalStatus": "married",
     "hobbies": ["football", "music", "travelling"],
     "team": {
-      "id": 109,
+      "id": 108,
       "name": "Real Madrid",
       "league": "La Liga",
-      "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/real_madrid_logo.jpg"
+      "logo": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/real_madrid_cf.jpg"
     }
   },
   {
@@ -173,10 +173,10 @@
     "maritalStatus": "Not married",
     "hobbies": ["football", "video games", "playing golf"],
     "team": {
-      "id": 110,
+      "id": 106,
       "name": "Manchester City",
       "league": "Premier League",
-      "logo": "https://raw.githubusercontent.com/username/repository-name/main/images/man_city_logo.jpg"
+      "logo": "https://raw.githubusercontent.com/s140464/footballers-data/main/images/manchester_city_fc.jpg"
     }
   }
 ]
